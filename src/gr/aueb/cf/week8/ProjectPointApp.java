@@ -1,4 +1,4 @@
-package gr.aueb.cf.testbed.week8;
+package gr.aueb.cf.week8;
 
 public class ProjectPointApp {
 
